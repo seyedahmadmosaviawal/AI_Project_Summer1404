@@ -11,7 +11,8 @@ In this phase, we tackle the problem of road segmentation in satellite imagery f
 
 The goal is to compare their performance based on metrics like IoU and Dice Score.
 
-**[Link to Phase 1 Video Presentation]**
+Video:
+**https://drive.google.com/file/d/1uAh-22HMqb5YPePZ-D8QXwUMM-Yn0YKi/view?usp=sharing**
 
 ## Phase 2: Soft Actor-Critic (SAC) for Continuous Control
 
