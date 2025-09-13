@@ -20,4 +20,5 @@ In the second phase, we delve into Reinforcement Learning. We implement the Soft
 
 SAC is an off-policy, maximum entropy algorithm designed to learn complex policies efficiently and robustly. Our implementation includes the core components: Actor (policy), Critic (Q-value), and automated entropy tuning.
 
-**[Link to Phase 2 Video Presentation]**
+Video:
+**https://drive.google.com/file/d/1tHgzsB4tMK7VLp3dm6mV4DP3cOqC7ALz/view?usp=sharing**
